@@ -6,7 +6,7 @@
 
 ### About
 - 💻 I started teaching myself iOS Development in 2022
-- ☕️ I'm a accountant and manager in the mornings and code in the evenings
+- ☕️ I'm a accountant and manager in the mornings and coder in the evenings
 - 🫶 BIG Google & StackOverflow fan 
 
  ### Skills
